@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm a Senior Software Developer 👋
 
-<!--
-**csoktharn/csoktharn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I am a passionate Senior Software Developer with expertise in building robust, innovative, and scalable solutions.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- **Programming Languages:** Python, JavaScript, GO
+- **Frameworks & Libraries:** React
+- **Specialties:** Artificial Intelligence (AI), Shopify development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+- Advanced AI solutions and integrations
+- Cutting-edge web technologies
+
+## 📫 Let's Connect!
+Feel free to reach out or connect with me on GitHub!
+
+---
+
+*Crafted with ❤️ by a passionate coder.*
